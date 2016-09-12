@@ -15,4 +15,6 @@ npm run node        //node
 npm start
 ```
 
+>Tip: you should install supervisor to manager the App's process.
+
 Make sure your server is running then visit [http://localhost:3000](http://localhost:3000)
