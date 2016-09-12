@@ -6,4 +6,6 @@ react-watchhill.iml
 node_modules
 
 
-
+#Npm debug
+npm-debug.log
+npm-debug.log.*
